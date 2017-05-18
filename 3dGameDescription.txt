@@ -1,0 +1,1 @@
+This was the final project for my intermediate computer science class and was a 3d platform based game. The user controlled a rotating 3d cube and collected gold cubes and avoided blue spheres while avoiding holes in the ground. There is a portal that appears later which jumps the user forward.
